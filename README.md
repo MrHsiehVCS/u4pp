@@ -1,6 +1,6 @@
 # u4pp1
 
-In this programming project, you will be detecting which years are leap years, writing some math helper functions, and creating a simple Role Playing Game (RPG).
+In this programming project, you will be detecting which years are leap years, writing some math helper functions, and creating a helper class for reading user input.
 
 ## PART A - LeapYear.java
 
